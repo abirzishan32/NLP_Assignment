@@ -15,3 +15,5 @@
 **Models:** Logistic Regression, SVM, Bi-LSTM, Bi-GRU
 
 **Embeddings:** BOW, TF-IDF, Word2Vec (300d), GloVe (300d)
+
+[Google Colab Link](https://colab.research.google.com/github/abirzishan32/NLP_Assignment/blob/main/NLP_Assignment.ipynb)
